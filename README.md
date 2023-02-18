@@ -17,3 +17,6 @@
 
 Learn more :
 https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
+
+Api Documentation :
+https://documenter.getpostman.com/view/25366464/2s93CHuFHW
